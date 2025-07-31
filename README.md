@@ -67,16 +67,7 @@ Podés ver todas las insignias, laboratorios completados y certificaciones en mi
 
 👉 [Ver perfil público en GCSB](https://www.cloudskillsboost.google/public_profiles/tu_usuario) <!-- Reemplazá este enlace -->
 
----
 
-## 📬 Contacto
-
-Si querés contactarme o colaborar:
-
-- LinkedIn: [tu perfil](https://www.linkedin.com/in/tuusuario/)
-- GitHub: [@GermanPLS](https://github.com/GermanPLS)
-
----
 
 ---
 
