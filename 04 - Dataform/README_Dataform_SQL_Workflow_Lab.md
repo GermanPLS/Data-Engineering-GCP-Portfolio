@@ -51,7 +51,7 @@ Una vez cargados, hacés las transformaciones dentro del Data Warehouse, usando 
 
   ## NOTA IMPORTANTE: COPIAR CUENTA DE SERVICIO
 
-   ![alt text](image-47.png)
+![alt text](image-47.png)
 #
 
 ### Tarea 2. Crear e inicializar un espacio de trabajo de desarrollo de Dataform    
