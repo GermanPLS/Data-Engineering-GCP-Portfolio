@@ -49,9 +49,11 @@ Una vez cargados, hacés las transformaciones dentro del Data Warehouse, usando 
 
     - Haga clic en **Go to Repositories (Ir a repositorios).**
 
-  ## NOTA IMPORTANTE: COPIAR CUENTA DE SERVICIO
+ 
 
 ![alt text](image-47.png)
+
+ ## * NOTA IMPORTANTE: COPIAR CUENTA DE SERVICIO
 #
 
 ### Tarea 2. Crear e inicializar un espacio de trabajo de desarrollo de Dataform    
