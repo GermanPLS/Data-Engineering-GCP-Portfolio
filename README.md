@@ -28,6 +28,28 @@ Este repositorio refleja esos aprendizajes a través de laboratorios prácticos.
 
 ---
 
+
+## ¿ Que haces un Ingeniero de Datos? 
+
+Basicamente, un ingeniero de datos traslada los datos de fuentes a receptores en 4 etapas:
+
+  - replicacion y migracion
+  - transferencia
+  - transformacion
+  - almacenamiento
+
+    <img width="851" height="283" alt="image" src="https://github.com/user-attachments/assets/8d5ccef2-1eaf-4952-915e-8386c5196d31" />
+
+Un Ingeniero  de Datos crea canalizaciones de datos para posibilitar la toma de decisiones basadas en datos:
+
+  - Llevar los datos hacia donde se los necesita   --->  transferencia y almacenamiento de datos SIN PROCESAR
+  - Hacer que los datos resulten utilizables       --->  transformacion de datos
+  - Agregar nuevo valor a los datos                --->  aprovisionamiento y enriquecimiento de datos
+  - Asministrar los datos                          --->  seguridad,privacidad,descubrimiento y administracion
+  - Llevar los procesos de datos a produccion      --->  supervision y automatizacion de las canalizaciones
+
+---
+
 ## 📌 Contenidos del Portafolio
 
 | Nº   | Lab / Proyecto                                                              | Rol en el pipeline                      | Temas principales                                                                                      | Link                                                                                                    |
