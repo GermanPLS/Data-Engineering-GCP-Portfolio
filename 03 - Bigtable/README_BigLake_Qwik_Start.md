@@ -117,7 +117,7 @@ Las tablas de BigLake acceden a los datos de Google Cloud Storage a través de u
     ![alt text](image-29.png)
 
 
-### Chequeamos Cloud Storage, ya que este lab BigLake: Qwik Start ya viene preconfigurado un bucket en Cloud Storage con los archivos de datos que vas a usar.
+### Chequeamos Cloud Storage, ya que este lab --> BigLake: Qwik Start ya viene preconfigurado un bucket en Cloud Storage con los archivos de datos que vas a usar.
    <img width="965" height="389" alt="image" src="https://github.com/user-attachments/assets/da4a5573-7f55-4dc9-9885-9c8cc229750a" />
 
 #
