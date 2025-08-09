@@ -3,6 +3,8 @@
 
 En este laboratorio forma parte de la ruta de aprendizaje de Ingeniería de Datos en Google Cloud y tiene como objetivo aprender a cargar datos estructurados en BigQuery desde diferentes fuentes utilizando tanto la consola como la CLI.
 
+En este Lab se **transfieren** datos desde fuentes externas (CSV local o Cloud Storage) hacia BigQuery, que es el destino final para procesamiento o análisis.
+
 ---
 
 ## 🎯 Objetivos
