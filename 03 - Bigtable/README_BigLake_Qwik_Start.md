@@ -116,6 +116,10 @@ Las tablas de BigLake acceden a los datos de Google Cloud Storage a través de u
     ![alt text](2.png)
     ![alt text](image-29.png)
 
+
+### Chequeamos Cloud Storage, ya que este lab BigLake: Qwik Start ya viene preconfigurado un bucket en Cloud Storage con los archivos de datos que vas a usar.
+   <img width="965" height="389" alt="image" src="https://github.com/user-attachments/assets/da4a5573-7f55-4dc9-9885-9c8cc229750a" />
+
 #
 ### 2. Tarea 2: Configurar el Acceso a Cloud Storage
 En esta sección, le otorgarás al recurso de conexión nuevo acceso de solo lectura al data lake de Cloud Storage para que BigQuery pueda acceder a los archivos en nombre de los usuarios. Recomendamos que otorgues a la cuenta de servicio del recurso de conexión el rol de IAM de Visualizador de objetos de Storage, que permite que la cuenta de servicio acceda a los buckets de Cloud Storage.
@@ -399,7 +403,7 @@ Para actualizar las tablas existentes a las tablas de BigLake, asocia la tabla e
 - Actualizaste correctamente la tabla externa existente a una tabla de BigLake asociándola a una conexión de recurso de nube.
 ---
 
-## 🧠 Conceptos clave
+##  Conceptos clave
 
 - **BigLake**: permite consultar datos externos (Cloud Storage, Amazon S3, Azure) como si estuvieran en BigQuery.
 - **Tablas externas vs. BigLake**:
@@ -410,15 +414,33 @@ Para actualizar las tablas existentes a las tablas de BigLake, asocia la tabla e
 
 ---
 
-## 🧪 Resultado esperado
+##  
 
-✔️ Recurso de conexión creado exitosamente.  
-✔️ Tabla de BigLake funcional y consultable desde BigQuery.  
-✔️ Control de acceso aplicado correctamente.  
-✔️ Tabla externa convertida a tabla de BigLake.
+## 🧪 Resumen del Lab
+
+En este lab se aprende a **crear y consultar una tabla BigLake en BigQuery** usando datos ya almacenados en un **bucket preconfigurado de Cloud Storage**.  
+
+Pasos principales:  
+1. Verificar el bucket y los archivos de datos provistos.  
+2. Crear una **conexión de recursos externos** en BigQuery.  
+3. Definir una **tabla BigLake** que apunta a los datos en Cloud Storage.  
+4. Asignar permisos para controlar el acceso.  
+5. Consultar los datos con SQL en BigQuery **sin copiarlos** a almacenamiento interno.  
+
+💡 **Objetivo:** Unificar acceso a datos externos con BigLake, manteniendo seguridad y gobernanza centralizada.  
+
+## Tipo de Proceso: EL (Extract & Load)
+
+Este laboratorio implementa un flujo de **Extract & Load (EL)**, es decir:  
+
+- **Extract (Extracción):** Se accede a datos en un bucket externo de Cloud Storage.  
+- **Load (Carga):** Los datos se exponen como tabla BigLake en BigQuery.  
+- **Transform (Transformación):** No se realizan transformaciones significativas durante el lab.  
+
+Esto permite consultar datos externos con SQL sin mover ni duplicar los datos físicamente.  
 
 
-Este laboratorio demuestra cómo usar BigLake para acceder de forma segura y granular a datos almacenados en Cloud Storage, mediante el uso de conexiones administradas, control de permisos por rol (IAM) y etiquetas de políticas de acceso a columnas sensibles. Así se logra una arquitectura de *data lakehouse* segura y compatible con BigQuery.
+
 
 ---
 
