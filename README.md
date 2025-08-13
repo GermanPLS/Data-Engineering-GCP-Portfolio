@@ -4,7 +4,8 @@
 
 
 
-Este repositorio documenta laboratorios prácticos orientados al rol de **Ingeniero de Datos** en Google Cloud. Cada lab aborda tareas reales como ingestión de datos, transformación, automatización y análisis con herramientas de GCP.
+Este repositorio documenta laboratorios prácticos orientados al rol de **Ingeniero de Datos** en Google Cloud.
+Cada lab aborda tareas reales como ingestión de datos, transformación, automatización y análisis con herramientas de GCP.
 
 ---
 
@@ -50,7 +51,7 @@ Un Ingeniero  de Datos crea canalizaciones de datos para posibilitar la toma de 
 
 ---
 
-## 📌 Contenidos del Portafolio
+## 📂 Contenidos del Portafolio
 
 | Nº   | Lab / Proyecto                                                              | Rol en el pipeline                      | Temas principales                                                                                      | Link                                                                                                    |
 |------|------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
