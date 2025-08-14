@@ -29,6 +29,9 @@ BigLake los une:
 
   - Aplica políticas de seguridad, control de acceso y rendimiento, como en un warehouse.
 
+
+Entonces, **BigLake** es un servicio específico de Google Cloud que actúa como un motor de almacenamiento unificado, permitiendo acceder y consultar datos de distintos sistemas (como BigQuery y Cloud Storage) **sin necesidad de duplicarlos**.
+
   ![alt text](image-27.png)
 
 ---
