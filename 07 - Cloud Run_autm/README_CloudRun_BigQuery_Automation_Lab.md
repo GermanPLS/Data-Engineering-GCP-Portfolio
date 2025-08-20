@@ -209,7 +209,9 @@ gcloud eventarc triggers list --location=$REGION
 ```
 ![alt text](image-122.png)
 ![alt text](image-123.png)
+
 4 - Ejecuta el siguiente comando para descargar el archivo Avro que la Cloud Run Function procesará para almacenarlo en BigQuery:
+
 
 ```sh
 wget https://storage.googleapis.com/cloud-training/dataengineering/lab_assets/idegc/campaigns.avro
