@@ -88,7 +88,7 @@ Un Ingeniero  de Datos crea canalizaciones de datos para posibilitar la toma de 
 
 Podés ver todas las insignias, laboratorios completados y certificaciones en mi perfil de Google Cloud Skills Boost:
 
-👉 [Ver perfil público en GCSB](https://www.cloudskillsboost.google/public_profiles/tu_usuario) <!-- Reemplazá este enlace -->
+👉 [Ver perfil público en Google Skills Boots](https://www.cloudskillsboost.google/public_profiles/29490151-ce34-4b53-95b4-0c5938ce2bcc) 
 
 
 
@@ -98,8 +98,8 @@ Podés ver todas las insignias, laboratorios completados y certificaciones en mi
 >
 > Si querés contactarme o colaborar:
 >
-> - LinkedIn: [tu perfil](https://www.linkedin.com/in/tuusuario/)
-> - GitHub: [@GermanPLS](https://github.com/GermanPLS)
+> -  [LinkedIn](https://www.linkedin.com/in/tuusuario/)
+> -  [GitHub](https://github.com/GermanPLS)
 >
 > ---
 >
