@@ -98,7 +98,7 @@ Podés ver todas las insignias, laboratorios completados y certificaciones en mi
 >
 > Si querés contactarme o colaborar:
 >
-> -  [LinkedIn](https://www.linkedin.com/in/tuusuario/)
+> -  [LinkedIn](https://www.linkedin.com/in/german-pablo-leventan-sago-7a5a6732/)
 > -  [GitHub](https://github.com/GermanPLS)
 >
 > ---
