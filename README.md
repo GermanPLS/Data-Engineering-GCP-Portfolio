@@ -30,9 +30,9 @@ Este repositorio refleja esos aprendizajes a través de laboratorios prácticos.
 ---
 
 
-## ¿ Que haces un Ingeniero de Datos? 
+## ¿Qué haces un Ingeniero de Datos?
 
-Basicamente, un ingeniero de datos traslada los datos de fuentes a receptores en 4 etapas:
+Básicamente, un ingeniero de datos traslada los datos de fuentes a receptores en 4 etapas:
 
   - replicacion y migracion
   - transferencia
@@ -46,7 +46,7 @@ Un Ingeniero  de Datos crea canalizaciones de datos para posibilitar la toma de 
   - Llevar los datos hacia donde se los necesita   --->  transferencia y almacenamiento de datos SIN PROCESAR
   - Hacer que los datos resulten utilizables       --->  transformacion de datos
   - Agregar nuevo valor a los datos                --->  aprovisionamiento y enriquecimiento de datos
-  - Asministrar los datos                          --->  seguridad,privacidad,descubrimiento y administracion
+  - Administrar los datos                          --->  seguridad,privacidad,descubrimiento y administracion
   - Llevar los procesos de datos a produccion      --->  supervision y automatizacion de las canalizaciones
 
 ---
@@ -57,7 +57,7 @@ Un Ingeniero  de Datos crea canalizaciones de datos para posibilitar la toma de 
 |------|------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | 01   | Datastream: Replicación de PostgreSQL en BigQuery                          | Replicación / Migración de datos         | Replicar datos en tiempo real desde Cloud SQL hacia BigQuery usando Datastream                          |  [Ver lab](<01 - Datastream - Replicación de PostgreSQL en BigQuery/README_Datastream_PostgreSQL_to_BigQuery.md>)|
 | 02   | Cómo cargar datos en BigQuery                                               | Ingesta de datos                         | Cargar datos estructurados en BigQuery desde distintas fuentes utilizando consola y CLI                 | [Ver lab](<02 - Cómo cargar datos en BigQuery/README_Cargar_datos_BigQuery.md>)                         |
-| 03   | BigLake: Qwik Start                                                         | Extracción y carga (EL)                  | Explorar BigLake para acceder a datos distribuidos sin necesidad de moverlos a BigQuery                 | [Ver lab](<03 - Bigtable/README_BigLake_Qwik_Start.md>) |                                                 |
+| 03   | BigLake: Qwik Start                                                         | Extracción y carga (EL)                  | Explorar BigLake para acceder a datos distribuidos sin necesidad de moverlos a BigQuery                 | [Ver lab](<03 - BigLake/README_BigLake_Qwik_Start.md>) |                                                 |
 | 04   | Dataform: Crear y ejecutar flujo de trabajo SQL                            | Extracción, carga y transformación (ELT) | Usar Dataform para transformar datos directamente en BigQuery mediante SQL                              | [Ver lab](<04 - Dataform/README_Dataform_SQL_Workflow_Lab.md>)                                         |
 | 05   | Dataflow Streaming: Panel en tiempo real                                    | ETL (streaming)                          | Crear un pipeline en tiempo real con Dataflow, BigQuery y visualización con Looker Studio              | [Ver lab](<05 - Dataflow_streaming/README_Dataflow_Realtime_Dashboard_Lab.md>)                         |
 | 06   | Dataproc Serverless: Spark + BigQuery                                       | ETL (batch)                              | Ejecutar un script en Spark para transformar datos y cargarlos en BigQuery                             | [Ver lab](<06 - Dataproc_spark/README_Usa Dataproc Serverless.md>)                                     |
