@@ -75,10 +75,7 @@ Una vez cargados, hacés las transformaciones dentro del Data Warehouse, usando 
 
 
 #
-### 3. Crear flujo de trabajo en SQL
-- Crear archivos `.sqlx` para definir tablas, vistas, operaciones o aserciones.
-- Utilizar bloques `config`, `js`, `pre_operations`, `post_operations`.
-- Establecer dependencias con `ref()` o `dependencies`.
+
 
 
 #
